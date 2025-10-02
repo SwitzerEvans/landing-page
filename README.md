@@ -1,6 +1,6 @@
 # Landing Page – AcmeSolutions
 
-⚠️ **Note**: This project is for practice and demonstration.  
+This project is for practice and demonstration.  
 It’s a static front-end landing page built with **HTML, CSS, and a little JavaScript**.  
 It does not have a backend or real product integration.
 
